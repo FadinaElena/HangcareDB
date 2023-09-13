@@ -36,6 +36,6 @@
 Общая сумма заказа (total_price) является характеристикой заказа. В данном случае удобнее хранить не стоимости отдельных товаров, а сразу общую сумму т.к. часто применяются различные скидки и динамика цен не важна. 
 
 
-!Схема базы данных (https://github.com/FadinaElena/HangcareDB/blob/main/Hangcare.jpg)
+!(https://github.com/FadinaElena/HangcareDB/blob/main/Hangcare.jpg)
 
 
